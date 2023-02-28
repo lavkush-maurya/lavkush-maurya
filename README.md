@@ -73,8 +73,10 @@
 <h2 id="github-stats">Github Stats</h2>
 
 <table><tbody><tr><td valign="top" width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=lavkush-maurya&amp;show_icons=true&amp;count_private=true&amp;hide_border=true" align="left" style="width: 100%">
-</td><td valign="top" width="50%">
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lavkush-maurya&show_icons=true&theme=radical)
+ </td></tr>
+ <tr>
+<td valign="top" width="50%">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lavkush-maurya&layout=compact)](https://github.com/anuraghazra/github-readme-stats" align="left" style="width: 100%">
 </td></tr></tbody></table>
 <!--end of stats -->
