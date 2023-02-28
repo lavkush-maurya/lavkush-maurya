@@ -69,7 +69,15 @@
 </div>
 
 <h2 id="github-stats">Github Stats</h2>
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=lavkush-maurya&amp;show_icons=true&amp;count_private=true&amp;hide_border=true" align="center"></div>
+<table><tbody><tr><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=lavkush-maurya&amp;show_icons=true&amp;count_private=true&amp;hide_border=true" align="left" style="width: 100%">
+
+</td><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lavkush-maurya&amp;hide_border=true&amp;layout=compact" align="left" style="width: 100%">
+
+</td></tr></tbody></table>
 
 
 
