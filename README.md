@@ -96,7 +96,7 @@
  </td></tr>
  <tr>
 <td valign="top" width="50%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lavkush-maurya&layout=compact)](https://github.com/anuraghazra/github-readme-stats" align="left" height="80%" style="width: 100%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lavkush-maurya&layout=compact)](https://github.com/anuraghazra/github-readme-stats" align="left" style="width: 100% height:80%">
 </td></tr></tbody></table>
 <!--end of stats -->
 
