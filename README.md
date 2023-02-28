@@ -73,7 +73,7 @@
 <h2 id="github-stats">Github Stats</h2>
 
 <table><tbody><tr><td valign="top" width="50%">
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lavkush-maurya&show_icons=true&theme=radical)
+<img src="https://github-readme-stats.vercel.app/api?username=lavkush-maurya&show_icons=true&theme=radical" align="left" style="width: 100%">
  </td></tr>
  <tr>
 <td valign="top" width="50%">
