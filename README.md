@@ -1,5 +1,6 @@
 <div align="center">
-### Hi Geeks 👋 ![](https://komarev.com/ghpvc/?username=lavkush-maurya&color=dc143c)
+### Hi Geeks 👋
+![](https://komarev.com/ghpvc/?username=lavkush-maurya&color=dc143c)
 </div>
 
 
