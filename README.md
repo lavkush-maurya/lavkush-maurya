@@ -48,7 +48,7 @@
 
 <br/>  
 
-
+<!--start of Connect with me -->
 <h2 id="connect-with-me">Connect with me</h2>
 <div align="center">
 <a href="https://github.com/lavkush-maurya" target="_blank">
@@ -67,18 +67,17 @@
 <img src="https://img.shields.io/badge/instagram-%23000000.svg?&amp;style=for-the-badge&amp;logo=instagram&amp;logoColor=white" alt="instagram" style="margin-bottom: 5px;">
 </a>  
 </div>
+<!--end of Connect with me -->
 
+<!--start of stats -->
 <h2 id="github-stats">Github Stats</h2>
+
 <table><tbody><tr><td valign="top" width="50%">
-
 <img src="https://github-readme-stats.vercel.app/api?username=lavkush-maurya&amp;show_icons=true&amp;count_private=true&amp;hide_border=true" align="left" style="width: 100%">
-
 </td><td valign="top" width="50%">
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lavkush-maurya&amp;hide_border=true&amp;layout=compact" align="left" style="width: 100%">
-
 </td></tr></tbody></table>
-
+<!--end of stats -->
 
 
 <!--
