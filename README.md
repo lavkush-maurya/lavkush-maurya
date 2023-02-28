@@ -68,7 +68,8 @@
 </a>  
 </div>
 
-
+<h2 id="github-stats">Github Stats</h2>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=lavkush-maurya&amp;show_icons=true&amp;count_private=true&amp;hide_border=true" align="center"></div>
 
 
 
