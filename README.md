@@ -94,10 +94,7 @@
 <table><tbody><tr><td valign="top" width="50%">
 <img src="https://github-readme-stats.vercel.app/api?username=lavkush-maurya&show_icons=true&theme=radical" align="left" style="width: 100%">
  </td></tr>
- <tr>
-<td valign="top" width="50%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lavkush-maurya&layout=compact)](https://github.com/anuraghazra/github-readme-stats" align="left" style="width: 100%">
-</td></tr></tbody></table>
+</tbody></table>
 <!--end of stats -->
 
 
