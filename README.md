@@ -9,7 +9,7 @@
 <table border="0">
   <tr border="0">
     <td border="0">
-      <p> I am a highly skilled professional Web Developer with an overall relevant experience of 3 years. I love to take on challenges and then solve them. And a passionate Full Stack Software Developer 🚀 having a special interest in Frontend technologies and experience in building Web applications with JavaScript / Reactjs / Nodejs and some other cool libraries and frameworks like Gatsby and Next-Js.</p>
+      <p> I am a highly skilled professional Web Developer with an overall relevant experience of 3 years. I love to take on challenges and then solve them. And a passionate Full Stack Software Developer 🚀 having a special interest in Frontend technologies and experience in building Web applications with JavaScript / Reactjs / Nodejs and some other cool libraries and frameworks like **Gatsby** and Next-Js.</p>
     </td>
     <td><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCMquZsMwF42qAgLw_LgHOyvqjAPcU6YWR2gvBSI26AVVpxSiHxe6puc6irxIz-WNwDRt5HlvfUA7ejJDnFh4NxE7Uq2zxlcU9rjEfjn0SIkHucJt38hqWkvwYbe7SM244ItFza000g4JCYhsgiATIkowmTTuIReFRJbw5GZwi72N4vZU0r11une7z/s1600/ezgif.com-gif-maker.gif" width="300px"/></td>
   </tr>
