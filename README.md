@@ -99,9 +99,18 @@
 <!--start of stats -->
 <h2 id="github-stats">Github Stats</h2>
 
-<table><tbody><tr><td valign="top" width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=lavkush-maurya&show_icons=true&theme=radical" align="left" style="width: 100%">
- </td></tr>
+<table>
+  <tbody>
+    <tr>
+      <td valign="top" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=lavkush-maurya&show_icons=true&theme=radical" align="left" style="width: 100%">
+     </td>
+    </tr>
+  <tr>
+    <td>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilyasbelaoud&layout=compact&langs_count=7&theme=react"  align="right" style="width: 100%"/>
+    </td>
+  </tr>
 </tbody></table>
 <!--end of stats -->
 
