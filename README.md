@@ -98,7 +98,7 @@
 
 <!--start of stats -->
 <h2 id="github-stats">Github Stats</h2>
-
+<div align="center">
 <table>
   <tbody>
     <tr>
@@ -111,7 +111,9 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lavkush-maurya&layout=compact&langs_count=7&theme=react"  align="right" style="width: 100%"/>
     </td>
   </tr>
-</tbody></table>
+</tbody>
+</table>
+</div>
 <!--end of stats -->
 
 
