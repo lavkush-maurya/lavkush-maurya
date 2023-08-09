@@ -108,7 +108,7 @@
     </tr>
   <tr>
     <td>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lavkush-maurya&layout=compact&langs_count=7&theme=merko"  align="right" style="width: 100%"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lavkush-maurya&layout=compact&langs_count=7&theme=radical"  align="right" style="width: 100%"/>
     </td>
   </tr>
 </tbody>
