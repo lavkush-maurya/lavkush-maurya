@@ -7,7 +7,7 @@
 
 <div style="display: flex; flex-wrap: wrap;">
     <div>
-        <p>I am a highly skilled professional Web Developer with an overall relevant experience of 2 years. I love to take on challenges and then solve them. And a passionate Full Stack Software Developer 🚀 having a special interest in Frontend technologies and experience in building Web applications with <b>MEAN/MERN Stack</b> <b>Webflow</b> / JavaScript / Reactjs / Nodejs and some other cool libraries and frameworks like <b>Gatsby</b> and <b>Next-Js</b>.</p>
+        <p>I am a highly skilled professional Web Developer with an overall relevant experience of 2 years. I love to take on challenges and then solve them. And a passionate Full Stack Software Developer 🚀 having a special interest in Frontend technologies and experience in building Web applications with <strong>MEAN/MERN Stack</strong> <b>Webflow</b> / JavaScript / Reactjs / Nodejs and some other cool libraries and frameworks like <b>Gatsby</b> and <b>Next-Js</b>.</p>
     </div>
     <div align="center">
         <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCMquZsMwF42qAgLw_LgHOyvqjAPcU6YWR2gvBSI26AVVpxSiHxe6puc6irxIz-WNwDRt5HlvfUA7ejJDnFh4NxE7Uq2zxlcU9rjEfjn0SIkHucJt38hqWkvwYbe7SM244ItFza000g4JCYhsgiATIkowmTTuIReFRJbw5GZwi72N4vZU0r11une7z/s1600/ezgif.com-gif-maker.gif" width="300px"/>
