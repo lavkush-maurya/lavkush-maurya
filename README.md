@@ -7,9 +7,18 @@
 
 <div style="display: flex; flex-wrap: wrap;">
     <div>
-        <p>I’m a passionate Full-Stack Developer with experience in leading teams and delivering impactful solutions. Currently at Sparkle Infotech, I’ve honed my skills in e-commerce development and operations improvement. My journey includes expertise in React, Next.js, and various tech stacks, with a focus on building efficient, scalable solutions. 🚀
+## 👋 Hi, I'm Lavkush Maurya
 
-Feel free to explore my repositories and connect with me!</p>
+I'm a **passionate Full-Stack Developer** with hands-on experience in leading teams and delivering impactful digital solutions. Currently, I'm working at **Sparkle Infotech**, where I specialize in **e-commerce development** and **operations improvement** to drive growth and efficiency.
+
+- 🔹 **Tech Stack Expertise:** React, Next.js, Node.js, MongoDB, AWS, and more.
+- 🔹 **Focus:** Building efficient, scalable solutions with an eye for detail and performance.
+- 🔹 **Achievements:** Led a multi-disciplinary team to launch a feature-rich e-commerce platform and developed internal tools reducing project turnaround by 15%.
+
+💼 Always eager to connect, collaborate, and explore innovative ideas in full-stack development!
+
+🚀 **Let’s build something impactful together!**
+
     </div>
     <div align="center">
         <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCMquZsMwF42qAgLw_LgHOyvqjAPcU6YWR2gvBSI26AVVpxSiHxe6puc6irxIz-WNwDRt5HlvfUA7ejJDnFh4NxE7Uq2zxlcU9rjEfjn0SIkHucJt38hqWkvwYbe7SM244ItFza000g4JCYhsgiATIkowmTTuIReFRJbw5GZwi72N4vZU0r11une7z/s1600/ezgif.com-gif-maker.gif" width="300px"/>
@@ -119,19 +128,3 @@ Feel free to explore my repositories and connect with me!</p>
 </table>
 </div>
 <!--end of stats -->
-
-
-<!--
-**lavkush-maurya/lavkush-maurya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
