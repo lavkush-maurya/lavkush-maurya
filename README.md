@@ -12,7 +12,9 @@ I'm a **Full-Stack Developer** and **Webflow Specialist** with a passion for del
 - Developed an operations tool using Webflow and the MERN stack, reducing processing time by 30% and cutting project turnaround by 15%.
 
 <div align="center">
+
 ![](https://komarev.com/ghpvc/?username=lavkush-maurya&color=dc143c)
+
 </div>
 
 
