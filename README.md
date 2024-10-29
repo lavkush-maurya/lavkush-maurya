@@ -1,3 +1,7 @@
+<div style="display: flex; justify-content: space-between; align-items: center;">
+
+<div>
+
 ## 👋 Hi, I'm Lavkush Maurya
 
 I'm a **Full-Stack Developer** and **Webflow Specialist** with a passion for delivering seamless and impactful digital solutions. Currently, I’m a **Full-Time Freelancer**, where I lead cross-functional teams in **e-commerce development** and **operational improvement**, driving efficiencies and enhancing user experiences.
@@ -11,11 +15,16 @@ I'm a **Full-Stack Developer** and **Webflow Specialist** with a passion for del
 - Successfully led a team to launch a robust e-commerce platform with 45+ new features and improvements.
 - Developed an operations tool using Webflow and the MERN stack, reducing processing time by 30% and cutting project turnaround by 15%.
 
-<div align="center">
+</div>
+
+<div align="right">
 
 ![](https://komarev.com/ghpvc/?username=lavkush-maurya&color=dc143c)
 
 </div>
+
+</div>
+
 
 
 <div style="display: flex; flex-wrap: wrap;">
