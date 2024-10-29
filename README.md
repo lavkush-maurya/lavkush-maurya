@@ -11,17 +11,7 @@ I'm a **Full-Stack Developer** and **Webflow Specialist** with a passion for del
 - Successfully led a team to launch a robust e-commerce platform with 45+ new features and improvements.
 - Developed an operations tool using Webflow and the MERN stack, reducing processing time by 30% and cutting project turnaround by 15%.
 
----
-
-💼 **Let’s connect and create something innovative!** Whether it's full-stack applications, custom Webflow projects, or performance-driven solutions, I’m excited to collaborate and make an impact.
-
-🌐 **[lavkushmaurya.me](https://lavkushmaurya.me)** | 📧 **lavkushmaurya147@gmail.com**
-
-
-
 <div align="center">
-  <h1>Hi Geeks 👋 </h1>
-
 ![](https://komarev.com/ghpvc/?username=lavkush-maurya&color=dc143c)
 </div>
 
@@ -129,3 +119,10 @@ I'm a **Full-Stack Developer** and **Webflow Specialist** with a passion for del
 </table>
 </div>
 <!--end of stats -->
+
+
+---
+
+💼 **Let’s connect and create something innovative!** Whether it's full-stack applications, custom Webflow projects, or performance-driven solutions, I’m excited to collaborate and make an impact.
+
+🌐 **[lavkushmaurya.me](https://lavkushmaurya.me)** | 📧 **lavkushmaurya147@gmail.com**
