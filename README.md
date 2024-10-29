@@ -1,3 +1,16 @@
+## 👋 Hi, I'm Lavkush Maurya
+
+I'm a **passionate Full-Stack Developer** with hands-on experience in leading teams and delivering impactful digital solutions. Currently, I'm working at **Sparkle Infotech**, where I specialize in **e-commerce development** and **operations improvement** to drive growth and efficiency.
+
+- 🔹 **Tech Stack Expertise:** React, Next.js, Node.js, MongoDB, AWS, and more.
+- 🔹 **Focus:** Building efficient, scalable solutions with an eye for detail and performance.
+- 🔹 **Achievements:** Led a multi-disciplinary team to launch a feature-rich e-commerce platform and developed internal tools reducing project turnaround by 15%.
+
+💼 Always eager to connect, collaborate, and explore innovative ideas in full-stack development!
+
+🚀 **Let’s build something impactful together!**
+
+
 <div align="center">
   <h1>Hi Geeks 👋 </h1>
 
