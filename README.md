@@ -1,29 +1,24 @@
-<div style="display: flex; justify-content: space-between; align-items: center;">
 
-  <div>
-    
-  ## 👋 Hi, I'm Lavkush Maurya
+## 👋 Hi, I'm Lavkush Maurya
 
-  I'm a **Full-Stack Developer** and **Webflow Specialist** with a passion for delivering seamless and impactful digital solutions. Currently, I’m a **Full-Time Freelancer**, where I lead cross-functional teams in **e-commerce development** and **operational improvement**, driving efficiencies and enhancing user experiences.
+I'm a **Full-Stack Developer** and **Webflow Specialist** with a passion for delivering seamless and impactful digital solutions. Currently, I’m a **Full-Time Freelancer**, where I lead cross-functional teams in **e-commerce development** and **operational improvement**, driving efficiencies and enhancing user experiences.
 
-  ### 🚀 What I Do
-  - **Full-Stack Development:** Skilled in React, Next.js, Node.js, MongoDB, and more, creating scalable and high-performance applications.
-  - **Webflow Expertise:** Crafting custom, responsive Webflow sites that bring brands to life and optimize workflows, improving productivity and reducing turnaround times.
-  - **Data-Driven Solutions:** Implementing advanced data analytics and automation for real-time insights, empowering teams with actionable metrics.
+### 🚀 What I Do
+- **Full-Stack Development:** Skilled in React, Next.js, Node.js, MongoDB, and more, creating scalable and high-performance applications.
+- **Webflow Expertise:** Crafting custom, responsive Webflow sites that bring brands to life and optimize workflows, improving productivity and reducing turnaround times.
+- **Data-Driven Solutions:** Implementing advanced data analytics and automation for real-time insights, empowering teams with actionable metrics.
 
-  ### 🔑 Achievements
-  - Successfully led a team to launch a robust e-commerce platform with 45+ new features and improvements.
-  - Developed an operations tool using Webflow and the MERN stack, reducing processing time by 30% and cutting project turnaround by 15%.
-    
-  </div>
+### 🔑 Achievements
+- Successfully led a team to launch a robust e-commerce platform with 45+ new features and improvements.
+- Developed an operations tool using Webflow and the MERN stack, reducing processing time by 30% and cutting project turnaround by 15%.
 
-  <div style="text-align: right;">
-    <img src="https://komarev.com/ghpvc/?username=lavkush-maurya&color=dc143c" alt="Profile views"/>
-    <br>
-    <img src="https://via.placeholder.com/150" alt="Profile Image" width="100" style="margin-top: 10px; border-radius: 50%;">
-  </div>
+<div>
+
+![](https://komarev.com/ghpvc/?username=lavkush-maurya&color=dc143c)
 
 </div>
+
+
 
 
 
