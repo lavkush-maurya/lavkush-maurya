@@ -1,14 +1,22 @@
 ## 👋 Hi, I'm Lavkush Maurya
 
-I'm a **passionate Full-Stack Developer** with hands-on experience in leading teams and delivering impactful digital solutions. Currently, I'm working at **Sparkle Infotech**, where I specialize in **e-commerce development** and **operations improvement** to drive growth and efficiency.
+I'm a **Full-Stack Developer** and **Webflow Specialist** with a passion for delivering seamless and impactful digital solutions. Currently, I’m a **Full-Time Freelancer**, where I lead cross-functional teams in **e-commerce development** and **operational improvement**, driving efficiencies and enhancing user experiences.
 
-- 🔹 **Tech Stack Expertise:** React, Next.js, Node.js, MongoDB, AWS, and more.
-- 🔹 **Focus:** Building efficient, scalable solutions with an eye for detail and performance.
-- 🔹 **Achievements:** Led a multi-disciplinary team to launch a feature-rich e-commerce platform and developed internal tools reducing project turnaround by 15%.
+### 🚀 What I Do
+- **Full-Stack Development:** Skilled in React, Next.js, Node.js, MongoDB, and more, creating scalable and high-performance applications.
+- **Webflow Expertise:** Crafting custom, responsive Webflow sites that bring brands to life and optimize workflows, improving productivity and reducing turnaround times.
+- **Data-Driven Solutions:** Implementing advanced data analytics and automation for real-time insights, empowering teams with actionable metrics.
 
-💼 Always eager to connect, collaborate, and explore innovative ideas in full-stack development!
+### 🔑 Achievements
+- Successfully led a team to launch a robust e-commerce platform with 45+ new features and improvements.
+- Developed an operations tool using Webflow and the MERN stack, reducing processing time by 30% and cutting project turnaround by 15%.
 
-🚀 **Let’s build something impactful together!**
+---
+
+💼 **Let’s connect and create something innovative!** Whether it's full-stack applications, custom Webflow projects, or performance-driven solutions, I’m excited to collaborate and make an impact.
+
+🌐 **[lavkushmaurya.me](https://lavkushmaurya.me)** | 📧 **lavkushmaurya147@gmail.com**
+
 
 
 <div align="center">
